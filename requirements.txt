@@ -1,0 +1,3 @@
+// filepath: requirements.txt
+streamlit
+graphviz
