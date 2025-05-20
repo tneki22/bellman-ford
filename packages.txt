@@ -1,2 +1,1 @@
-// filepath: packages.txt
 graphviz
